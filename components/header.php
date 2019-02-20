@@ -6,7 +6,7 @@
 <link href="https://fonts.googleapis.com/css?family=Bungee+Shade" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="engine1/jquery.js"></script>
 <!-- End WOWSlider.com HEAD section -->
-	<title>artoney</title>
+	<title>Spaniad Artoney</title>
 	<link rel="stylesheet" type="text/css" href="project.css">
 </head>
 <body>
